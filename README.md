@@ -1,6 +1,6 @@
 # Hi, I'm Raees Kasim K E 👋
 
-AI/ML Engineer Fresher | Python | Machine Learning | NLP | Computer Vision | Data Engineer | Data Analysis
+AI/ML Engineer Fresher | Python | Machine Learning | NLP | Computer Vision | Data Engineering | Data Analysis
 
 I am an MCA graduate specialized in Artificial Intelligence and Machine Learning.  
 I build practical AI/ML projects using Python, FastAPI, Streamlit, SQL, OpenCV, YOLOv8, scikit-learn, TensorFlow, and NLP techniques.
